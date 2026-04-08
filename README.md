@@ -9,3 +9,13 @@ Backend Engineering Intern Case Study Submission
 ## 📄 Full Case Study Document
 
 Google Doc Link: https://docs.google.com/document/d/1664e9YpoaHa2AVYsCEBejlmzgTPw0qaeDN32XBVKHdc/edit?usp=sharing
+
+---
+
+## 📁 Repository Document
+
+The complete case study is also included in this repository:
+
+- `case-study.md`
+
+---
