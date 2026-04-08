@@ -321,6 +321,3 @@ router.get('/companies/:company_id/alerts/low-stock', requireAuth, async (req, r
 });
 ```
 
----
-
-*End of submission.*
