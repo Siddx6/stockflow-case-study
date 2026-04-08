@@ -14,8 +14,9 @@ Google Doc Link: https://docs.google.com/document/d/1664e9YpoaHa2AVYsCEBejlmzgTP
 
 ## 📁 Repository Document
 
-The complete case study is also included in this repository:
+The complete case study and the original docx file is also included in this repository:
 
 - `case-study.md`
+- `Siddharth_Kumar_Backend_Case_Study_Byrny`
 
 ---
